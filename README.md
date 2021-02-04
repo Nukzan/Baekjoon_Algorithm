@@ -5,3 +5,4 @@
 - Day1 : 입출력과 사칙연산
 - Day2 : if문
 - Day3 : while문
+- Day4 : for문1
